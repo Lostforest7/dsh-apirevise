@@ -6,7 +6,7 @@
 
 [English](README.md) · [兼容性与限制](docs/compatibility.md)
 
-![真实 DeepSeek 闭环：登记端点 → 快照基线 → 模型改后端 → 结构化 diff → 逐项验收 → 报告](docs/assets/real-model-demo.gif)
+![真实 DeepSeek 闭环：登记端点 → 快照基线 → 模型改后端 → 结构化 diff → 逐项验收 → 报告](https://raw.githubusercontent.com/Lostforest7/dsh-apirevise/main/docs/assets/real-model-demo.gif)
 
 这段 64 秒演示使用 2026-10-01 真实运行的截图（DSH Web 0.2.0-rc.2 + 真实 DeepSeek V4-Flash），不是连续录屏。详细记录见 [docs/real-model-validation.md](docs/real-model-validation.md)。
 

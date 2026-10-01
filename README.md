@@ -6,7 +6,7 @@
 
 [中文说明](README.zh-CN.md) · [Compatibility & limits](docs/compatibility.md)
 
-![Real DeepSeek run: register endpoints, baseline, model edit, structured diff, per-item acceptance, report](docs/assets/real-model-demo.gif)
+![Real DeepSeek run: register endpoints, baseline, model edit, structured diff, per-item acceptance, report](https://raw.githubusercontent.com/Lostforest7/dsh-apirevise/main/docs/assets/real-model-demo.gif)
 
 This 64-second walkthrough uses stills from the actual run on 2026-10-01 (DSH Web 0.2.0-rc.2 + real DeepSeek V4-Flash). It is not a continuous recording. Details: [docs/real-model-validation.md](docs/real-model-validation.md).
 
