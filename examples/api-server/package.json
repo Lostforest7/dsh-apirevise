@@ -1,0 +1,10 @@
+{
+  "name": "apirevise-example-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-dependency sample backend for the dsh-apirevise acceptance loop.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
