@@ -25,11 +25,13 @@ This 64-second walkthrough uses stills from the actual run on 2026-10-01 (DSH We
 
 Use Node 22.19+ (22.x) or Node 24. Install and configure DSH according to its [official documentation](https://github.com/deepseek-ai/deepseek-harness). DSH handles your model credentials; API Revise has no separate API key.
 
-### From npm (after publish)
+### From npm
 
 ```sh
 dsh plugin --profile web add dsh-apirevise
 ```
+
+Published as [`dsh-apirevise@0.1.0`](https://www.npmjs.com/package/dsh-apirevise). A pre-release tarball is also attached to [v0.1.0](https://github.com/Lostforest7/dsh-apirevise/releases/tag/v0.1.0).
 
 ### Source checkout
 

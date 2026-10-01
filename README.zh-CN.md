@@ -25,11 +25,13 @@
 
 Node 使用 22.19+（22.x 线）或 24。先按 [官方文档](https://github.com/deepseek-ai/deepseek-harness) 安装配置 DSH；模型密钥由 DSH 管理，本插件没有独立 API Key。
 
-### npm 安装（发布后）
+### npm 安装
 
 ```sh
 dsh plugin --profile web add dsh-apirevise
 ```
+
+已发布 [`dsh-apirevise@0.1.0`](https://www.npmjs.com/package/dsh-apirevise)；[v0.1.0](https://github.com/Lostforest7/dsh-apirevise/releases/tag/v0.1.0) 另附预发布 tarball。
 
 ### 源码安装
 
